@@ -1,0 +1,9 @@
+---
+title: "index"
+author: "Gonzalo de Quesada"
+date: "12 de diciembre de 2017"
+output: html_document
+---
+# Final Assignment
+
+## Data wrangling
